@@ -77,7 +77,7 @@ return {
                 text={
                     "Start run with the",
                     "{C:tarot,T:v_crystal_ball}#1#{} voucher",
-                    "and {C:attention}2{} copies",
+                    "and {C:attention}two{} copies",
                     "of {C:tarot,T:c_fool}#2#",
                 },
             },
@@ -167,7 +167,7 @@ return {
             bl_final_bell={
                 name="Cerulean Bell",
                 text={
-                    "Forces 1 card to",
+                    "Forces one card to",
                     "always be selected",
                 },
             },
@@ -182,7 +182,7 @@ return {
                 name="Verdant Leaf",
                 text={
                     "All cards debuffed",
-                    "until 1 Joker sold",
+                    "until one Joker sold",
                 },
             },
             bl_final_vessel={
@@ -222,7 +222,7 @@ return {
             bl_hook={
                 name="The Hook",
                 text={
-                    "Discards 2 random",
+                    "Discards two random",
                     "cards per hand played",
                 },
             },
@@ -249,14 +249,14 @@ return {
             bl_mouth={
                 name="The Mouth",
                 text={
-                    "Play only 1 hand",
+                    "Play only one hand",
                     "type this round",
                 },
             },
             bl_needle={
                 name="The Needle",
                 text={
-                    "Play only 1 hand",
+                    "Play only one hand",
                 },
             },
             bl_ox={
@@ -283,14 +283,14 @@ return {
             bl_psychic={
                 name="The Psychic",
                 text={
-                    "Must play 5 cards",
+                    "Must play five cards",
                 },
             },
             bl_serpent={
                 name="The Serpent",
                 text={
                     "After Play or Discard,",
-                    "always draw 3 cards",
+                    "always draw three cards",
                 },
             },
             bl_small={
@@ -794,7 +794,7 @@ return {
                 name="DNA",
                 text={
                     "If {C:attention}first hand{} of round",
-                    "has only {C:attention}1{} card, add a",
+                    "has only {C:attention}one{} card, add a",
                     "permanent copy to deck",
                     "and draw it to {C:attention}hand",
                 },
@@ -938,7 +938,7 @@ return {
                 text={
                     "All {C:attention}Flushes{} and",
                     "{C:attention}Straights{} can be",
-                    "made with {C:attention}4{} cards",
+                    "made with {C:attention}four{} cards",
                 },
             },
             j_gift={
@@ -1058,7 +1058,7 @@ return {
                     "{C:inactive}(Currently {X:mult,C:white} X#2# {C:inactive} Mult)",
                 },
                 unlock={
-                    "Discard {E:1,C:attention}5",
+                    "Discard {E:1,C:attention}five",
                     "{E:1,C:attention}Jacks{} at the",
                     "same time",
                 },
@@ -1105,7 +1105,7 @@ return {
                 unlock={
                     "Win a run without",
                     "ever having more",
-                    "than {E:1,C:attention}4 Jokers{}",
+                    "than {E:1,C:attention}four Jokers{}",
                 },
             },
             j_joker={
@@ -1203,7 +1203,7 @@ return {
                 },
                 unlock={
                     "Defeat a Boss Blind",
-                    "in {E:1,C:attention}1 hand{} without",
+                    "in {E:1,C:attention}one hand{} without",
                     "using any discards",
                 },
             },
@@ -1333,7 +1333,7 @@ return {
                 name="Perkeo",
                 text={
                     "Creates a {C:dark_edition}Negative{} copy of",
-                    "{C:attention}1{} random {C:attention}consumable{}",
+                    "{C:attention}one{} random {C:attention}consumable{}",
                     "card in your possession",
                     "at the end of the {C:attention}shop",
                 },
@@ -1529,7 +1529,7 @@ return {
                 name="Shortcut",
                 text={
                     "Allows {C:attention}Straights{} to be",
-                    "made with gaps of {C:attention}1 rank",
+                    "made with gaps of {C:attention}one rank",
                     "{C:inactive}(ex: {C:attention}10 8 6 5 3{C:inactive})",
                 },
             },
@@ -1604,7 +1604,7 @@ return {
                 text={
                     "This Joker gains {C:chips}+#2#{} Chips",
                     "if played hand has",
-                    "exactly {C:attention}4{} cards",
+                    "exactly {C:attention}four{} cards",
                     "{C:inactive}(Currently {C:chips}#1#{C:inactive} Chips)",
                 },
             },
@@ -1697,7 +1697,7 @@ return {
                     "earn {C:money}$#1#{} when scored",
                 },
                 unlock={
-                    "Play a 5 card hand",
+                    "Play a five card hand",
                     "that contains only",
                     "{C:attention,E:1}Gold{} cards",
                 },
@@ -1723,7 +1723,7 @@ return {
                 name="Trading Card",
                 text={
                     "If {C:attention}first discard{} of round",
-                    "has only {C:attention}1{} card, destroy",
+                    "has only {C:attention}one{} card, destroy",
                     "it and earn {C:money}$#1#",
                 },
             },
@@ -1773,7 +1773,7 @@ return {
                 unlock={
                     "Win {C:attention,E:1}#1#{} consecutive",
                     "rounds by playing",
-                    "only 1 hand",
+                    "only one hand",
                 },
             },
             j_trousers={
@@ -2177,7 +2177,7 @@ return {
                 name="Red Seal",
                 text={
                     "Retrigger this",
-                    "card {C:attention}1{} time",
+                    "card {C:attention}one{} time",
                 },
             },
             red_sticker={
@@ -2410,7 +2410,7 @@ return {
                 text={
                     "Add {C:dark_edition}Foil{}, {C:dark_edition}Holographic{},",
                     "or {C:dark_edition}Polychrome{} effect to",
-                    "{C:attention}1{} selected card in hand",
+                    "{C:attention}one{} selected card in hand",
                 },
             },
             c_black_hole={
@@ -2418,14 +2418,14 @@ return {
                 text={
                     "Upgrade every",
                     "{C:legendary,E:1}poker hand",
-                    "by {C:attention}1{} level",
+                    "by {C:attention}one{} level",
                 },
             },
             c_cryptid={
                 name="Cryptid",
                 text={
                     "Create {C:attention}#1#{} copies of",
-                    "{C:attention}1{} selected card",
+                    "{C:attention}one{} selected card",
                     "in your hand",
                 },
             },
@@ -2433,7 +2433,7 @@ return {
                 name="Deja Vu",
                 text={
                     "Add a {C:red}Red Seal{}",
-                    "to {C:attention}1{} selected",
+                    "to {C:attention}one{} selected",
                     "card in your hand",
                 },
             },
@@ -2448,7 +2448,7 @@ return {
             c_familiar={
                 name="Familiar",
                 text={
-                    "Destroy {C:attention}1{} random",
+                    "Destroy {C:attention}one{} random",
                     "card in your hand, add",
                     "{C:attention}#1#{} random {C:attention}Enhanced face",
                     "{C:attention}cards{} to your hand",
@@ -2457,7 +2457,7 @@ return {
             c_grim={
                 name="Grim",
                 text={
-                    "Destroy {C:attention}1{} random",
+                    "Destroy {C:attention}one{} random",
                     "card in your hand, add",
                     "{C:attention}#1#{} random {C:attention}Enhanced 1",
                     "{C:attention}cards{} to your hand",
@@ -2482,7 +2482,7 @@ return {
             c_incantation={
                 name="Incantation",
                 text={
-                    "Destroy {C:attention}1{} random",
+                    "Destroy {C:attention}one{} random",
                     "card in your hand, add {C:attention}#1#",
                     "random {C:attention}Enhanced numbered",
                     "{C:attention}cards{} to your hand",
@@ -2492,7 +2492,7 @@ return {
                 name="Medium",
                 text={
                     "Add a {C:purple}Purple Seal{}",
-                    "to {C:attention}1{} selected",
+                    "to {C:attention}one{} selected",
                     "card in your hand",
                 },
             },
@@ -2525,7 +2525,7 @@ return {
                 name="Talisman",
                 text={
                     "Add a {C:attention}Gold Seal{}",
-                    "to {C:attention}1{} selected",
+                    "to {C:attention}one{} selected",
                     "card in your hand",
                 },
             },
@@ -2533,7 +2533,7 @@ return {
                 name="Trance",
                 text={
                     "Add a {C:blue}Blue Seal{}",
-                    "to {C:attention}1{} selected",
+                    "to {C:attention}one{} selected",
                     "card in your hand",
                 },
             },
@@ -2582,7 +2582,7 @@ return {
                 name="Orange Stake",
                 text={
                     "Shop can have {C:attention}Perishable{} Jokers",
-                    "{C:inactive,s:0.8}(Debuffed after 5 Rounds)",
+                    "{C:inactive,s:0.8}(Debuffed after five Rounds)",
                     "{s:0.8}Applies all previous Stakes",
                 },
             },
@@ -2924,7 +2924,7 @@ return {
                 text={
                     "Increases rank of",
                     "up to {C:attention}#1#{} selected",
-                    "cards by {C:attention}1",
+                    "cards by {C:attention}one",
                 },
             },
             c_sun={
@@ -3005,7 +3005,7 @@ return {
                 name="Director's Cut",
                 text={
                     "Reroll Boss Blind",
-                    "{C:attention}1{} time per Ante,",
+                    "{C:attention}one{} time per Ante,",
                     "{C:money}$#1#{} per roll",
                 },
             },
@@ -3316,7 +3316,7 @@ return {
             completionist_plus="Win with every deck on Gold Stake difficulty",
             completionist_plus_plus="Earn a Gold Sticker on every Joker",
             extreme_couponer="Discover every Voucher",
-            flushed="Play a Flush with 5 Wild Cards",
+            flushed="Play a Flush with five Wild Cards",
             heads_up="Win a Run",
             high_stakes="Win a run on at least Gold Stake difficulty",
             legendary="Discover a Legendary Joker",
@@ -3324,11 +3324,11 @@ return {
             mid_stakes="Win a run on at least Black Stake difficulty",
             nest_egg="Have $400 or more during a single run",
             retrograde="Get any poker hand to level 10",
-            roi="Buy 5 Vouchers by Ante 4",
+            roi="Buy five Vouchers by Ante 4",
             royale="Play a Royal Flush",
             rule_bender="Complete any challenge run",
             rule_breaker="Complete every challenge run",
-            shattered="Break 2 Glass Cards in a single hand",
+            shattered="Break two Glass Cards in a single hand",
             speedrunner="Win a run in 12 or fewer rounds",
             tiny_hands="Thin your deck down to 20 or fewer cards",
             you_get_what_you_get="Win a run without rerolling the shop",
@@ -3830,21 +3830,21 @@ return {
         },
         poker_hand_descriptions={
             ["Five of a Kind"]={
-                "5 cards with the same rank",
+                "Five cards with the same rank",
             },
             Flush={
-                "5 cards that share the same suit",
+                "Five cards that share the same suit",
             },
             ["Flush Five"]={
-                "5 cards with the same rank and suit",
+                "Five cards with the same rank and suit",
             },
             ["Flush House"]={
                 "A Three of a Kind and a Pair with",
                 "all cards sharing the same suit",
             },
             ["Four of a Kind"]={
-                "4 cards with the same rank. They may",
-                "be played with 1 other unscored card",
+                "Four cards with the same rank. They may",
+                "be played with one other unscored card",
             },
             ["Full House"]={
                 "A Three of a Kind and a Pair",
@@ -3854,27 +3854,27 @@ return {
                 "hands, only the highest ranked card scores",
             },
             Pair={
-                "2 cards that share the same rank. They may",
-                "be played with up to 3 other unscored cards",
+                "Two cards that share the same rank. They may",
+                "be played with up to three other unscored cards",
             },
             ["Royal Flush"]={
-                "5 cards in a row (consecutive ranks) with",
+                "Five cards in a row (consecutive ranks) with",
                 "all cards sharing the same suit",
             },
             Straight={
-                "5 cards in a row (consecutive ranks)",
+                "Five cards in a row (consecutive ranks)",
             },
             ["Straight Flush"]={
-                "5 cards in a row (consecutive ranks) with",
+                "Five cards in a row (consecutive ranks) with",
                 "all cards sharing the same suit",
             },
             ["Three of a Kind"]={
-                "3 cards with the same rank. They may be",
-                "played with up to 2 other unscored cards",
+                "Three cards with the same rank. They may be",
+                "played with up to two other unscored cards",
             },
             ["Two Pair"]={
-                "2 pairs of cards with different ranks, may",
-                "be played with 1 other unscored card",
+                "Two pairs of cards with different ranks, may",
+                "be played with one other unscored card",
             },
         },
         poker_hands={
@@ -4053,17 +4053,17 @@ return {
             },
             fh_5={
                 "Now select up to",
-                "{C:attention}5{} cards to play",
+                "{C:attention}five{} cards to play",
                 "and press {C:blue}'Play Hand'",
             },
             fh_5_touch={
                 "Now tap up to",
-                "{C:attention}5{} cards to play",
+                "{C:attention}five{} cards to play",
                 "and press {C:blue}'Play Hand'",
             },
             fh_6={
                 "You can also {C:red}'Discard'{} up",
-                "to {C:attention}5{} selected cards",
+                "to {C:attention}five{} selected cards",
                 "to try and make even",
                 "stronger hands. Try it!",
             },
@@ -4121,7 +4121,7 @@ return {
             },
             s_5={
                 "Be picky, you can only",
-                "carry {C:attention}5 Joker{} cards",
+                "carry {C:attention}five Joker{} cards",
                 "at a time",
             },
             s_6={
@@ -4136,7 +4136,7 @@ return {
             },
             s_8={
                 "You can carry up to",
-                "{C:attention}2 consumable{} cards",
+                "{C:attention}two consumable{} cards",
                 "with you at a time",
             },
             s_9={
@@ -4175,13 +4175,13 @@ return {
                 "{C:attention}USE{} your consumables!",
             },
             sh_3={
-                "Select up to {C:attention}2{} cards",
+                "Select up to {C:attention}two{} cards",
                 "in your hand and press",
                 "{C:attention}'USE'{} on the {C:tarot}Tarot{} card",
                 "to enhance them!",
             },
             sh_3_touch={
-                "Select up to {C:attention}2{} cards",
+                "Select up to {C:attention}two{} cards",
                 "in your hand and drag",
                 "the {C:tarot}Tarot{} card into the {C:attention}'USE'{}",
                 "area to enhance them!",
@@ -4281,7 +4281,7 @@ return {
                 "When ante {C:attention}#1#{} boss is defeated, set Joker slots to {C:attention}0",
             },
             ch_c_set_seed={
-                "1 attempt with set Seed: {C:inactive}{Hidden}",
+                "One attempt with set Seed: {C:inactive}{Hidden}",
             },
             ch_m_consumable_slots={
                 "{C:attention}#1#{} Consumable Slots",
